@@ -1,0 +1,7 @@
+# virtual env directory for python packages
+venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
